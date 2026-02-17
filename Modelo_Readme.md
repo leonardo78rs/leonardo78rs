@@ -1,4 +1,4 @@
-# 🎯 Análise Exploratória de dados 
+# 🎯 Titulo do repositório 
 Um pequeno script em Python para análise de dados. Focando nos ... 
 
 ## 🔖 Funcionalidades
