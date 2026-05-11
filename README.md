@@ -9,7 +9,6 @@ Visite o meu Linkedin: [LinkedIn Leonardo Mendes de Oliveira](https://www.linked
 
 Certificados e cursos: [Certificados Leonardo](https://github.com/leonardo78rs/Certificados/blob/main/README.md) 
 
-## 🚧 página em construção 🚧   
 
 ## Alguns repositórios
 
@@ -56,4 +55,3 @@ Grande parte do meu trabalho não pode ser publicada, pois está protegida pelos
 Ainda assim, organizo e disponibilizo aqui projetos pessoais e conteúdos complementares, que servem tanto como referência para mim quanto como material de consulta para quem precisar.
 
 
-## 🚧 página em construção 🚧   
