@@ -9,6 +9,7 @@ Visite o meu Linkedin: [LinkedIn Leonardo Mendes de Oliveira](https://www.linked
 
 Certificados e cursos: [Certificados Leonardo](https://github.com/leonardo78rs/Certificados/blob/main/README.md) 
 
+Projetos realizados: [Projetos Leonardo - Eng.Software] (https://github.com/leonardo78rs/Certificados/blob/main/LT-projetos_realizados.md)
 
 ## Alguns repositórios
 
