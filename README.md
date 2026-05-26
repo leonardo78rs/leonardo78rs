@@ -1,8 +1,9 @@
 # 👋 Bem-vindo ao meu GitHub!
 
-Sou **Leonardo Mendes de Oliveira**, atuo como Engenheiro de Software, e atualmente dedido meus estudos e pesquisas na área de ciência de dados.
+Sou **Leonardo Mendes de Oliveira**, atuo como Engenheiro de Software, e atualmente dedico meus estudos e pesquisas na área de ciência de dados.
 
 Os projetos aqui reunidos refletem minha prática em diferentes áreas do conhecimento, sempre com foco em rigor técnico, pesquisa reproduzível e desenvolvimento de soluções eficientes.  
+
 Minha trajetória é apoiada por formação em programação, engenharia de software, ciência de dados e matemática, consolidando a base teórica e prática aplicada em cada projeto.
 
 Visite o meu Linkedin: [LinkedIn Leonardo Mendes de Oliveira](https://www.linkedin.com/in/leonardomoliveira/) 
